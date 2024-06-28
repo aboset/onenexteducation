@@ -1,0 +1,1 @@
+// QuerySelector es para seleccionar
